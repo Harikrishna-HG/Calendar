@@ -4,6 +4,7 @@ void main()
     int m,h,i=1,a,j,b=1;
     printf("\n Enter the month number of the year 2023: ");
     scanf("%d",&m);
+    // Switch statement 
    switch(m)
    {
     case 1:
